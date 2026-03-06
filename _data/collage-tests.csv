@@ -1,4 +1,4 @@
-objectid,parentid,filename,title,creator,rights,rightsstatement
+objectid,parentid,filename,title,creator,rights,rightsstatement,display_template
 c001,,sample.png,Sample collage,Antonio,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-s001,c001,bloma.jpeg,"blomma, flower",Etnografiska museet,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
-s002,c001,pohadka.jpeg,Pohádka,Karel Pečke,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/
+s001,c001,bloma.jpeg,"blomma, flower",Etnografiska museet,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/,compound_object
+s002,c001,pohadka.jpeg,Pohádka,Karel Pečke,CC BY 4.0,https://creativecommons.org/licenses/by/4.0/,compound_object
